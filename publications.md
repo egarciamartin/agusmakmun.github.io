@@ -16,7 +16,7 @@ permalink: /publications/
 ### Journals
 ---- 
 
-* **García-Martín E.**, Lavesson N., & Doroud M. (2016). Hash- tags and followers:An experimental study of the online social network Twitter, Social Network Analysis and Mining (SNAM), 6(1) (pp. 1-15), Springer   
+* **García-Martín E.**, Lavesson N., & Doroud M. (2016). Hashtags and followers:An experimental study of the online social network Twitter, Social Network Analysis and Mining (SNAM), 6(1) (pp. 1-15), Springer   
 
 * Abghari, S., **Garcia-Martin, E.**, Johansson, C., Lavesson, N., & Grahn, H. (2017). Trend analysis to automatically identify heat program changes. Energy Procedia, 116, 407-415.
 
@@ -45,7 +45,7 @@ permalink: /publications/
 
 * **García-Martín E.**, Lavesson N., & Grahn H, “Energy Efficiency in Machine Learning”. 4th Swedish Workshop on Data Science (SweDS 2016). 
 
-* **García-Martín E.**, & Lavesson N., “Is it ethical to avoid error analysis?” 2017 Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML 2017), Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+* **García-Martín E.**, & Lavesson N., “Is it ethical to avoid error analysis?” 2017 Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML 2017), held in conjunction with the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, [arxiv](https://arxiv.org/abs/1706.10237) 
 
 * **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. “Adaptive Very Fast Decision Tree, preliminary results,” in 12th Women in Machine Learning Workshop (WiML 2017), in conjunction with NIPS 2017, December 2017, Long Beach, USA. Accepted for poster presentation.
 
