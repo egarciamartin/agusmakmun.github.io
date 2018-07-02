@@ -1,0 +1,58 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
+### In-progress
+---
+
+* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018) Hoeffding Trees with nmin adaptation. Submitted to DSAA 2018: The 5th IEEE International Conference on Data Science and Advanced Analytics  
+
+* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018). How to Measure Energy Consumption in Machine Learning Algorithms. Submitted to AAIA 2018, 13th International Symposium Advances in Artificial Intelligence and Applications  
+
+
+
+### Journals
+---- 
+
+* **García-Martín E.**, Lavesson N., & Doroud M. (2016). Hash- tags and followers:An experimental study of the online social network Twitter, Social Network Analysis and Mining (SNAM), 6(1) (pp. 1-15), Springer   
+
+* Abghari, S., **Garcia-Martin, E.**, Johansson, C., Lavesson, N., & Grahn, H. (2017). Trend analysis to automatically identify heat program changes. Energy Procedia, 116, 407-415.
+
+### Book Chapters
+----   
+
+* **García-Martín E.**, Lavesson N., & Grahn H. (2017). Energy Efficiency Analysis of the Very Fast Decision Tree algorithm. In: * Missaoui R., Abdessalem T., Latapy M. (eds) Trends in Social Network Analysis. Lecture Notes in Social Networks, (pp. 229-252), Springer.
+
+
+
+### Conference papers
+----
+
+* **García-Martín E.**, Lavesson N., & Grahn H. (2015) Energy Efficiency in Data Stream Mining. Advances in Social Networks Analysis and Mining (ASONAM), 2015 IEEE/ACM International Conference on. IEEE, 2015.   
+
+* **García-Martín E.**, Lavesson N., & Grahn H. (2017). Identification of Energy Hotspots: A Case Study of the Very Fast Decision Tree. In: Au M., Castiglione A., Choo KK., Palmieri F., Li KC. (eds) Green, Pervasive, and Cloud Computing. GPC 2017. Lecture Notes in Computer Science, 10232, (pp. 267-281), Springer.  
+
+* Lundberg L., Lennerstad H., **García-Martín E.**, Lavesson N., Boeva V. (2017) “Increasing the Margin in Support Vector Machines through Hyperplane Folding”, 26th Annual Machine Learning Conference of the Benelux (Benelearn). 
+
+
+
+### Workshop papers
+----
+
+* **Garcia-Martin E.**, Lavesson N., Grahn H., & Boeva V. (2017, May). Energy Efficiency in Machine Learning: A position paper. In 30th Annual Workshop of the Swedish Artificial Intelligence Society SAIS 2017, May 15–16, 2017, Karlskrona, Sweden 137, (pp. 68-72). Linköping University Electronic Press. 
+
+* **García-Martín E.**, Lavesson N., & Grahn H, “Energy Efficiency in Machine Learning”. 4th Swedish Workshop on Data Science (SweDS 2016). 
+
+* **García-Martín E.**, & Lavesson N., “Is it ethical to avoid error analysis?” 2017 Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML 2017), Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining.
+
+* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. “Adaptive Very Fast Decision Tree, preliminary results,” in 12th Women in Machine Learning Workshop (WiML 2017), in conjunction with NIPS 2017, December 2017, Long Beach, USA. Accepted for poster presentation.
+
+* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V., “Adaptive Very Fast Decision Tree, preliminary results,” in 5th Swedish Workshop in Data Science (SweDS 2017), December 2017, Gothenburg, Sweden.
+
+### Thesis work
+----
+
+* **García-Martín, Eva**. Extraction and Energy Efficient Processing of Streaming Data. Diss. Blekinge Tekniska Högskola, 2017.
+
