@@ -10,6 +10,7 @@ I am a PhD student in Machine Learning at Blekinge Institute of Technology, in S
 
 
 # Research Interests
+--- 
 
 The main focus of my thesis is on making **machine learning** algorithms more **energy efficiency**. 
 In particular, I have studied the energy consumption patterns of one kind of **streaming algorithms**, and then proposed new ways to design such algorithms to reduce their energy consumption. 
@@ -22,6 +23,7 @@ Some of my research interests are the following:
 * Green Computing
 
 # Organizing / PC / other
+--- 
 
 I am currently the **1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery**, held in conjunction with ECML-PKDD 2018, in September in Dublin, Ireland. [Green Data Mining](https://greendatamining.github.io)
 
@@ -30,6 +32,8 @@ I am helping at organizing the [WiML](https://wimlworkshop.org) dinner held at I
 I am a reviewer for the following conferences/journals: [WiML](https://wimlworkshop.org), [ICML](https://icml.cc), [ECML](http://www.ecmlpkdd2018.org), [AAAI](https://aaai.org), [SNAM](https://link.springer.com/journal/13278), [GHC](https://ghc.anitab.org).
 
 # Talks and Presentations
+--- 
+
 I have given talks and/or presentations at the following events:
 
 * *Energy-Efficient Data Stream Mining* • HiPEAC 2018, European Network on High Performance and Embedded Architecture and Compilation, May 2018, Gothenburg, Sweden. 
