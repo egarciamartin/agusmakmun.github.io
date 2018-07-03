@@ -6,14 +6,14 @@ permalink: /
 
 --- 
 
-I am a PhD student in Machine Learning at Blekinge Institute of Technology, in Sweden. I am working under the project *Scalable resource- efficient systems for big data analytics* funded by the Knowledge Foundation (Sweden), advised by Niklas Lavesson and Håkan grahn.
+I am a PhD student in Machine Learning at Blekinge Institute of Technology, in Sweden. I am working under the project *Scalable resource- efficient systems for big data analytics* funded by the Knowledge Foundation (Sweden), advised by Niklas Lavesson and Håkan grahn. 
 
 
 # Research Interests
 --- 
 
 The main focus of my thesis is on making **machine learning** algorithms more **energy efficiency**. 
-In particular, I have studied the energy consumption patterns of one kind of **streaming algorithms**, and then proposed new ways to design such algorithms to reduce their energy consumption. 
+In particular, I have studied the energy consumption patterns of **streaming algorithms**, and then proposed new algorithm extensions that reduce their energy consumption. 
 Some of my research interests are the following: 
 
 * Energy Efficiency in Machine Learning
