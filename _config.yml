@@ -31,9 +31,9 @@ urls:
     - text: Publications
       url: /publications/
     - text: CV
-      url: /cv/
+      url: /cv
     - text: Interesting links
-      url: /links/
+      url: /links
   
 url: "https://egarciamartin.github.io"
 baseurl: ""
