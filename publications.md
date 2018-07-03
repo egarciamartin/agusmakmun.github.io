@@ -47,7 +47,7 @@ permalink: /publications/
 
 * **García-Martín E.**, & Lavesson N., “Is it ethical to avoid error analysis?” 2017 Workshop on Fairness, Accountability, and Transparency in Machine Learning (FAT/ML 2017), held in conjunction with the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, [arxiv](https://arxiv.org/abs/1706.10237) 
 
-* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. “Adaptive Very Fast Decision Tree, preliminary results,” in 12th Women in Machine Learning Workshop (WiML 2017), in conjunction with NIPS 2017, December 2017, Long Beach, USA. Accepted for poster presentation. [Poster](/static/pdf/WiML_AVFDT.pdf)
+* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. “Adaptive Very Fast Decision Tree, preliminary results,” in 12th Women in Machine Learning Workshop (WiML 2017), in conjunction with NIPS 2017, December 2017, Long Beach, USA. Presented as a  poster. [Poster](/static/pdf/WiML_AVFDT.pdf)
 
 * **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V., “Adaptive Very Fast Decision Tree, preliminary results,” in 5th Swedish Workshop in Data Science (SweDS 2017), December 2017, Gothenburg, Sweden.
 

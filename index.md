@@ -20,7 +20,7 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 # News
 --- 
 * Currently: Attending the Advanced School On Data Science For Big Data, in Porto, Portugal. [EAIA18](http://eaia2018.dcc.fc.up.pt)
-* Currently: Organizing [GreenDataMining](greendatamining.github.io) workshop at ECML-PKDD in Dublin, Ireland.
+* Currently: Organizing [GreenDataMining](https://greendatamining.github.io) workshop at ECML-PKDD in Dublin, Ireland.
 * May'18: Giving a talk at [HiPEAC CSWSpring](https://www.hipeac.net/csw/2018/gothenburg/) session in machine learning, in Gothenburg.
 * December'17: Presented my licentiate dissertation, available [here](http://bth.diva-portal.org/smash/get/diva2:1159312/FULLTEXT02.pdf), with [Albert Bifet](http://albertbifet.com) as my opponent. 
 
