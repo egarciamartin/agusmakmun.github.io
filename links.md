@@ -1,5 +1,6 @@
 ---
 layout: page
+Title: Interesting Stuff I like
 permalink: /links
 ---
 

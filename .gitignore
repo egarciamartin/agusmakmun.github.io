@@ -5,7 +5,7 @@ static/.DS_Store
 .jekyll-metadata
 *backup/
 CV/*aux
-CV/*fld
+CV/*fls
 CV/*cls
 CV/*tex
 CV/*log
