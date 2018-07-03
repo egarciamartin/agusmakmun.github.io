@@ -31,7 +31,8 @@ urls:
     - text: Publications
       url: /publications/
     - text: CV
-      url: /CV/cv.pdf
+      url: /static/pdf/CV.pdf
+      # url: /CV/cv.pdf
     - text: Interesting links
       url: /links
   

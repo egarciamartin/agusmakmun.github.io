@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cv
+permalink: /cvw
 ---
 
 In progress
