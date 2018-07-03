@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### In progress
+### Ongoing 
 ---
 
 * **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018) Hoeffding Trees with nmin adaptation. Submitted to DSAA 2018: The 5th IEEE International Conference on Data Science and Advanced Analytics  

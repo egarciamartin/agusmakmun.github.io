@@ -4,4 +4,10 @@ static/.DS_Store
 .sass-cache
 .jekyll-metadata
 *backup/
-
+CV/*aux
+CV/*fld
+CV/*cls
+CV/*tex
+CV/*log
+CV/*latexmk
+CV/*gz

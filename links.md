@@ -3,7 +3,12 @@ layout: page
 permalink: /links
 ---
 
-In progress
+
+# Productivity
+I love reading articles about new productivity hacks, tools, etc. I plan to share some of them here.
+
+* Free writing article about [750words.com](www.750words.com): <https://betterhumans.coach.me/better-than-meditation-12532d29f6cd>
+* Sarah Brown's article on *Getting unstuck In Writing for Research*: <http://sarahmbrown.org/blog/getting-unstuck-writing-research>
 
 # Newsletters
 
