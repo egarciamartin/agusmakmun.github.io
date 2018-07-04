@@ -22,3 +22,8 @@ Interesting podcasts in machine learning that I usually listen to
 * Talking Machines: <https://www.thetalkingmachines.com>
 * TWiMLAI: <https://twimlai.com>
 * Microsoft Research Podcast: <https://www.microsoft.com/en-us/research/blog/category/podcast/>
+
+# PhD 
+PhD tips, blogs, articles, etc. 
+
+* How I fail series- Ian Goodfellow: <https://veronikach.com/how-i-fail/how-i-fail-ian-goodfellow-phd14-computer-science/>
