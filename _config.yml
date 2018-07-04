@@ -1,6 +1,6 @@
 title: Eva García-Martín
 description: Personal Website
-author: Eva Garcia-Martin
+author: Eva García-Martín
 github: https://github.com/egarciamartin
 about: PhD student in Machine Learning @ Blekinge Institute of Technology. 
 contact: eva.garcia.martin[at]bth.se
@@ -29,9 +29,9 @@ share:
 
 urls:
     - text: Publications
-      url: /publications/
+      url: /publications
     - text: CV
-      url: /static/pdf/CV.pdf
+      url: /cv
       # url: /CV/cv.pdf
     - text: Interesting links
       url: /links
