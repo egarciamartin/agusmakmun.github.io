@@ -1,6 +1,6 @@
 # Personal website. 
 
-Used theme from <agusmakmun/agusmakmun.github.io>
+Used theme from (agusmakmun/agusmakmun.github.io)
 
 * Publications: Ongoing, journal, conference, and workshop publications
 * CV: Link to the most updated CV
