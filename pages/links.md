@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Interesting Stuff I like
+title: 
 permalink: /links
 ---
 
+<!-- * [**Productivity**](#productivity)
+* [**Newsletters**](#newsletters)
+* [**Podcasts**](#podcasts)
+* [**PhD**](#phd)
+ -->
 
 # Productivity
 I love reading articles about new productivity hacks, tools, etc. I plan to share some of them here.
@@ -22,6 +27,7 @@ Interesting podcasts in machine learning that I usually listen to
 * Talking Machines: <https://www.thetalkingmachines.com>
 * TWiMLAI: <https://twimlai.com>
 * Microsoft Research Podcast: <https://www.microsoft.com/en-us/research/blog/category/podcast/>
+* Women in Business & Technology, by Microsoft: <https://overcast.fm/itunes1259235188/women-in-business-technology>
 
 # PhD 
 PhD tips, blogs, articles, etc. 
