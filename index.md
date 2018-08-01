@@ -19,7 +19,7 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 
 # News
 --- 
-* Upcoming: Presenting our paper "Hoeffding Trees with nmin adaptation" at [DSAA](https://dsaa2018.isi.it/home) in Turin, Italy. October 2018.
+* Upcoming: Presenting our paper "*Hoeffding Trees with nmin adaptation*" at [DSAA](https://dsaa2018.isi.it/home) in Turin, Italy. October 2018.
 * Currently: Organizing [GreenDataMining](https://greendatamining.github.io) workshop at ECML-PKDD in Dublin, Ireland.
 * July'18: Attended [ICML](https://icml.cc) @Stockholm. 
 * July'18: Volunteering for organizing the [WiML](https://wimlworkshop.org) dinner held at [ICML](https://icml.cc), in Stockholm, July 2018.
