@@ -21,6 +21,7 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 --- 
 * Upcoming: Presenting our paper "*Hoeffding Trees with nmin adaptation*" at [DSAA](https://dsaa2018.isi.it/home) in Turin, Italy. October 2018.
 * Currently: Organizing [GreenDataMining](https://greendatamining.github.io) workshop at ECML-PKDD in Dublin, Ireland.
+* Currently: Attending [ECML-PKDD](http://www.ecmlpkdd2018.org) in Dublin, Ireland.
 * July'18: Attended [ICML](https://icml.cc) @Stockholm. 
 * July'18: Volunteering for organizing the [WiML](https://wimlworkshop.org) dinner held at [ICML](https://icml.cc), in Stockholm, July 2018.
 * July'18: Attended the Advanced School On Data Science For Big Data, in Porto, Portugal. [EAIA18](http://eaia2018.dcc.fc.up.pt)
@@ -34,9 +35,9 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 
 I am currently organizing the **1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery**, held in conjunction with ECML-PKDD 2018, in September in Dublin, Ireland. [Green Data Mining](https://greendatamining.github.io)
 
-I am helping at organizing the [WiML](https://wimlworkshop.org) dinner held at ICML, in Stockholm, July 2018. 
+I was helping at organizing the [WiML](https://wimlworkshop.org) dinner held at ICML, in Stockholm, July 2018. 
 
-I am a reviewer for the following conferences/journals: [WiML](https://wimlworkshop.org), [ICML](https://icml.cc), [ECML](http://www.ecmlpkdd2018.org), [AAAI](https://aaai.org), [SNAM](https://link.springer.com/journal/13278), [GHC](https://ghc.anitab.org).
+I am a reviewer for the following conferences/journals: [JMLR](http://jmlr.csail.mit.edu), [WiML](https://wimlworkshop.org), [ICML](https://icml.cc), [ECML](http://www.ecmlpkdd2018.org), [AAAI](https://aaai.org), [SNAM](https://link.springer.com/journal/13278), [GHC](https://ghc.anitab.org).
 
 <br>
 
@@ -44,6 +45,8 @@ I am a reviewer for the following conferences/journals: [WiML](https://wimlworks
 --- 
 
 I have given talks and/or presentations at the following events:
+
+* *How to Measure Energy Consumption in Machine Learning algorithms* • Green Data Mining workshop held at ECML-PKDD 2018, September 2018, Dublin, Ireland.
 
 * *Energy-Efficient Data Stream Mining* • HiPEAC 2018, European Network on High Performance and Embedded Architecture and Compilation, May 2018, Gothenburg, Sweden. 
 
