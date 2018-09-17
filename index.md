@@ -20,8 +20,8 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 # News
 --- 
 * Upcoming: Presenting our paper "*Hoeffding Trees with nmin adaptation*" at [DSAA](https://dsaa2018.isi.it/home) in Turin, Italy. October 2018.
-* Currently: Organizing [GreenDataMining](https://greendatamining.github.io) workshop at ECML-PKDD in Dublin, Ireland.
-* Currently: Attending [ECML-PKDD](http://www.ecmlpkdd2018.org) in Dublin, Ireland.
+* September'18: Organized [GreenDataMining](https://greendatamining.github.io) workshop at ECML-PKDD in Dublin, Ireland.
+* September'18: Attended [ECML-PKDD](http://www.ecmlpkdd2018.org) in Dublin, Ireland.
 * July'18: Attended [ICML](https://icml.cc) @Stockholm. 
 * July'18: Volunteering for organizing the [WiML](https://wimlworkshop.org) dinner held at [ICML](https://icml.cc), in Stockholm, July 2018.
 * July'18: Attended the Advanced School On Data Science For Big Data, in Porto, Portugal. [EAIA18](http://eaia2018.dcc.fc.up.pt)
@@ -33,7 +33,7 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 # Organizing / PC / other
 --- 
 
-I am currently organizing the **1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery**, held in conjunction with ECML-PKDD 2018, in September in Dublin, Ireland. [Green Data Mining](https://greendatamining.github.io)
+I organized the **1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery**, held in conjunction with ECML-PKDD 2018, in September in Dublin, Ireland. [Green Data Mining](https://greendatamining.github.io)
 
 I was helping at organizing the [WiML](https://wimlworkshop.org) dinner held at ICML, in Stockholm, July 2018. 
 

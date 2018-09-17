@@ -9,7 +9,6 @@ permalink: /publications
 
 * **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018) Hoeffding Trees with nmin adaptation. Accepted at DSAA 2018: The 5th IEEE International Conference on Data Science and Advanced Analytics (*To appear*) [arXiv](https://arxiv.org/abs/1808.01145)
 
-* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018). How to Measure Energy Consumption in Machine Learning Algorithms. To be presented at ECML-PKDD 2018 1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery (Green Data Mining) 
 
 
 ### Journals
@@ -39,6 +38,8 @@ permalink: /publications
 
 ### Workshop papers
 ----
+
+* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018). How to Measure Energy Consumption in Machine Learning Algorithms. ECML-PKDD 2018 1st International Workshop on Energy Efficient Data Mining and Knowledge Discovery (Green Data Mining) 
 
 * **Garcia-Martin E.**, Lavesson N., Grahn H., & Boeva V. (2017, May). Energy Efficiency in Machine Learning: A position paper. In 30th Annual Workshop of the Swedish Artificial Intelligence Society SAIS 2017, May 15–16, 2017, Karlskrona, Sweden 137, (pp. 68-72). Linköping University Electronic Press. [PDF](http://bth.diva-portal.org/smash/get/diva2:1159323/FULLTEXT01.pdf)
 
