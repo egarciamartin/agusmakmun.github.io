@@ -12,7 +12,7 @@ permalink: /publications
 ### Journals
 ---- 
 
-* **García-Martín E.**, Lavesson N., & Doroud M. (2016). Hashtags and followers:An experimental study of the online social network Twitter, Social Network Analysis and Mining (SNAM), 6(1) (pp. 1-15), Springer [PDF](http://bth.diva-portal.org/smash/get/diva2:1006904/FULLTEXT01.pdf)
+* **García-Martín E.**, Lavesson N., & Doroud M. (2016). Hashtags and followers:An experimental study of the online social network Twitter, Social Network Analysis and Mining (SNAM), 6(1) (pp. 1-15), [Springer original PDF](https://rdcu.be/7BCE)
 
 * Abghari, S., **Garcia-Martin, E.**, Johansson, C., Lavesson, N., & Grahn, H. (2017). Trend analysis to automatically identify heat program changes. Energy Procedia, 116, 407-415.
 
