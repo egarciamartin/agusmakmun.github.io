@@ -100,6 +100,19 @@ div.col-sm-3 div.profile-about {
   margin-top: 10px;
   color: #8C8C8C;
 }
+/*Added this new property for the location */
+div.col-sm-3 div.profile-about-location {
+  margin-top: 5px;
+  color: #8C8C8C;
+  font-weight: normal;
+}
+/*Added this new property for the location link */
+a.location {
+  margin-top: 5px;
+  color: #8C8C8C;
+  font-weight: normal;
+  text-decoration: underline;
+}
 /*Added this new property for the email*/
 div.col-sm-3 div.profile-about-contact {
   margin-top: 10px;
@@ -153,7 +166,7 @@ div.col-sm-3 img.profile-avatar {
   margin: 0 5px;
 }
 .social li a {
-  font-size: 16px;
+  font-size: 18px;
   color: #969394;
 }
 .social li a:hover {

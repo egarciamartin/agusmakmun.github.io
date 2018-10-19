@@ -2,7 +2,11 @@ title: Eva García-Martín
 description: Personal Website
 author: Eva García-Martín
 github: https://github.com/egarciamartin
-about: PhD student in Machine Learning @ Blekinge Institute of Technology. 
+about: PhD student in Machine Learning @ Blekinge Institute of Technology.
+location: 
+  name: Visiting  
+  link_name: Télécom ParisTech
+  link: https://goo.gl/maps/WBRHitsuKvp
 contact: eva.garcia.martin[at]bth.se
 avatar_url: /static/img/eva.png
 
@@ -15,13 +19,13 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-google
+    - icon: ai ai-google-scholar ai-1.7x
       link: "https://scholar.google.se/citations?user=9LJwmLkAAAAJ&hl=en"
-    - icon: fa-twitter
+    - icon: fab fa-twitter
       link: "https://twitter.com/evitamonal"
-    - icon: fa-linkedin
+    - icon: fab fa-linkedin
       link: "https://www.linkedin.com/in/evagarciamartin"
-    - icon: fa-github
+    - icon: fab fa-github
       link: "https://github.com/egarciamartin"
 
 share:
@@ -42,9 +46,12 @@ baseurl: ""
 # per_page: 20
 # paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jemoji
+
+
 
 compress_html:
   clippings: all

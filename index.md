@@ -19,7 +19,8 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 
 # News
 --- 
-* Upcoming: Attending and presenting at the 2018 Annual [BigData@BTH Workshop](https://a.bth.se/bigdata/ws2018/) in Karlskrona, Sweden. 11th-12th October 2018.
+* Currently: Visiting Télécom ParisTech to work at the [Data, Intelligence and Graphs (DIG)](https://dig.telecom-paristech.fr/blog/index.php/research/) group with [Albert Bifet](http://albertbifet.com). 
+* October'18: Attended and presented at the 2018 Annual [BigData@BTH Workshop](https://a.bth.se/bigdata/ws2018/) in Karlskrona, Sweden. 11th-12th October 2018.
 * October'18: Presented our paper "*Hoeffding Trees with nmin adaptation*" at [DSAA](https://dsaa2018.isi.it/home) in Turin, Italy. October 2018.
 * September'18: Organized [GreenDataMining](https://greendatamining.github.io) workshop at ECML-PKDD in Dublin, Ireland.
 * September'18: Attended [ECML-PKDD](http://www.ecmlpkdd2018.org) in Dublin, Ireland.
