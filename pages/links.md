@@ -16,6 +16,7 @@ I love reading articles about new productivity hacks, tools, etc. I plan to shar
 * Free writing article about [750words.com](www.750words.com): <https://betterhumans.coach.me/better-than-meditation-12532d29f6cd>
 * Sarah Brown's article on *Getting unstuck In Writing for Research*: <http://sarahmbrown.org/blog/getting-unstuck-writing-research>
 * The focus tunnel <http://hellophd.com/2016/10/time-management-focus-funnel/>
+<!-- * PhD guilt: my own post with ideas from others: [PhD Guilt]({{ site.baseurl }}/phdguilt) -->
 
 # Newsletters
 

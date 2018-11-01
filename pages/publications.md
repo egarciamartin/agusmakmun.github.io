@@ -26,7 +26,7 @@ permalink: /publications
 ### Conference papers
 ----
 
-* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018) Hoeffding Trees with nmin adaptation. Accepted at DSAA 2018: The 5th IEEE International Conference on Data Science and Advanced Analytics (*To appear*) [arXiv](https://arxiv.org/abs/1808.01145)
+* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018) Hoeffding Trees with nmin adaptation. In 2018 IEEE International Conference on  Data Science and Advanced Analytics (DSAA) (pp. 70-79) (*To appear*) [arXiv](https://arxiv.org/abs/1808.01145)
 
 
 * **García-Martín E.**, Lavesson N., & Grahn H. (2017). Identification of Energy Hotspots: A Case Study of the Very Fast Decision Tree. In: Au M., Castiglione A., Choo KK., Palmieri F., Li KC. (eds) Green, Pervasive, and Cloud Computing. GPC 2017. Lecture Notes in Computer Science, 10232, (pp. 267-281), Springer. [PDF](http://bth.diva-portal.org/smash/get/diva2:1156958/FULLTEXT01.pdf)
