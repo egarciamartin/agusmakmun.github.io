@@ -3,12 +3,12 @@ description: Personal Website
 author: Eva García-Martín
 github: https://github.com/egarciamartin
 about: PhD student in Machine Learning @ Blekinge Institute of Technology.
-location: 
-  name:   
+location:
+  name:
   link_name: Göteborg, Sweden
   link: https://goo.gl/maps/ca9DpwPgx342
 contact: eva.garcia.martin[at]bth.se
-avatar_url: /static/img/eva.png
+avatar_url: /static/img/Eva_2.png
 
 enableTags: true
 tagarray: []
@@ -39,7 +39,7 @@ urls:
       # url: /CV/cv.pdf
     - text: Interesting links
       url: /links
-  
+
 url: "https://egarciamartin.github.io"
 baseurl: ""
 # paginate: 20
@@ -50,6 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jemoji
+  - commonmarker
+  - gemoji
 
 
 
