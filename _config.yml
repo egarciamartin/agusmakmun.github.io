@@ -46,6 +46,8 @@ baseurl: ""
 # per_page: 20
 # paginate_path: "/page/:num/"
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 plugins:
   - jekyll-paginate
   - jekyll-gist

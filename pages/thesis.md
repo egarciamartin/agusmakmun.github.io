@@ -10,7 +10,6 @@ permalink: /thesis
 ---
 ### Abstract
 
-
 Energy efficiency in machine learning explores how to build machine learning algorithms and models with low computational and power requirements.
 Energy efficient and scalable algorithms are necessary to be able to be deployed on embedded systems and other resource constrained devices.
 Although energy consumption is starting to gain interest in the field of machine learning, still the majority of solutions focus on obtaining the highest predictive accuracy, without considering energy consumption.
@@ -33,11 +32,13 @@ The thesis author has been the main driver of all the publications. The author h
 
 ---
 
+
 ### Tentatively included papers   
 <br/>
 * **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2018)  *Estimation of Energy Consumption in Machine Learning*. Journal of Parallel and Distributed Computing, Special Issue on Advances on Parallel and High Performance Computing for AI. Elsevier *(Under review - Major revision)*
   <details>
   <summary>Abstract</summary>
+
   Energy consumption has been widely studied in the computer architecture field for decades. While the adoption of energy as a metric in machine learning is emerging, the majority of research is still primarily focused on obtaining high levels of accuracy without any computational constraint. We believe that one of the reasons for this lack of interest is due to their lack of familiarity with approaches to evaluate energy consumption. To address this challenge, we present a review of the different approaches to estimate energy consumption in general and machine learning applications in particular. Our goal is to provide useful guidelines to the machine learning community giving them the fundamental knowledge to use and build specific energy estimation methods for machine learning algorithms. We also present the latest software tools that gives energy estimation values, together with two use cases that enhance the study of energy consumption in machine learning.
   </details><br/>
 * **García-Martín E.**, Lavesson N., & Grahn H. (2017).  *Energy Efficiency Analysis of the Very Fast Decision Tree algorithm*. In: Missaoui R., Abdessalem T., Latapy M. (eds) Trends in Social Network Analysis. Lecture Notes in Social Networks, (pp. 229-252), Springer. DOI: <https://doi.org/10.1007/978-3-319-53420-6_10>   **[[PDF]](http://bth.diva-portal.org/smash/get/diva2:1156925/FULLTEXT01.pdf)**
@@ -82,16 +83,14 @@ The thesis author has been the main driver of all the publications. The author h
 * **García-Martín E.**, Bifet A., Lavesson N., (2019) *Energy Efficient Ensembles of Hoeffding Trees*. Intelligent Data Analysis *(Under review)*.
   <details>
   <summary>Abstract</summary>
-  <p>
 
-  ```Energy consumption reduction has been an increasing trend in machine
+  Energy consumption reduction has been an increasing trend in machine
   learning over the past few years due to its socio-ecological importance. In new challenging areas such as edge computing, energy consumption and predictive accuracy are key variables during algorithm design and implementation. State-of- the-art stream mining algorithms are able to create highly accurate predictions in real-time while adhering to low computational requirements to run in edge devices. This is the case of ensembles of Hoeffding trees. While these algorithms obtain high levels of accuracy, that is done at a substantial energy cost. This paper introduces the nmin adaptation method to ensembles of Hoeffding tree algorithms,
   to further reduce their energy consumption without sacrificing accuracy. We have evaluated the energy efficiency and accuracy of the nmin adaptation
   method on five different ensembles of Hoeffding trees under 11 publicly available datasets.
   The results show that we are able to reduce the energy consumption significantly,
   by 21 % on average, affecting accuracy by less than one percent on average.
-  ```
-  </p>
+
   </details><br/>
 
 * **García-Martín E.**, Bifet A., Lavesson N., (2019) *Green Accelerated Hoeffding Tree*. 2019 IEEE International Conference on Data Mining (ICDM). IEEE, 2019. *(Under review)*
