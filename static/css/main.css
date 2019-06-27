@@ -64,6 +64,10 @@ a:hover {
   content: "»";
   margin-right: .5em;
 }
+summary {
+  color: #3fa757;
+  text-decoration: underline;
+}
 
 /* Content */
 div.content pre {
