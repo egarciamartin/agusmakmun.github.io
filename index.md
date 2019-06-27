@@ -17,7 +17,7 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 
 <br>
 
-# News
+## News
 ---
 * June'19: Gave a talk on *Sustainable Machine Learning* at the Women in Tech event "Women Influencers in Disruptive Technologies", in Gothenburg, Sweden.
 * April'19: :tada:From August 15 I will be starting a new position as a Data Scientist at [Ekkono Solutions](https://ekkono.ai).  
@@ -34,7 +34,7 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 
 <br>
 
-# Organizing / PC / other
+## Organizing / PC / other
 ---
 We are currently organizing the second edition of the Green Data Mining workshop: **Second International Workshop on Energy Efficient Scalable Data Mining and Machine Learning**, held in conjunction with ECML-PKDD 2019, in September in Würzburg, Germany. [Green Data Mining](https://greendatamining.github.io)
 
@@ -46,7 +46,7 @@ I am a reviewer for the following conferences/journals: [JMLR](http://jmlr.csail
 
 <br>
 
-# Talks and Presentations
+## Talks and Presentations
 ---
 
 I have given talks and/or presentations at the following events:
