@@ -27,6 +27,7 @@ Third, it addresses those bottlenecks by presenting the *nmin adaptation* method
 The thesis is finalized by presenting the Green Very Fast Decision Tree algorithm. This algorithm is able to output higher accuracy than the latest Hoeffding tree extension, while reducing its energy consumption by more than 20 percent averaged in 12 publicly available datasets.
 
 ---
+### Thesis description and author contribution
 This dissertation is a compilation thesis that consists of a number of published or publishable papers, synthesized into a thesis introduction.
 The thesis author has been the main driver of all the publications. The author has planned the studies, designed the experiments, conducted the experiments, conducted the analysis and written the manuscripts.
 
