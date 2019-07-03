@@ -15,15 +15,17 @@ Energy efficient and scalable algorithms are necessary to be able to be deployed
 Although energy consumption is starting to gain interest in the field of machine learning, still the majority of solutions focus on obtaining the highest predictive accuracy, without considering energy consumption.
 
 This thesis explores green machine learning, which builds on green computing and computer architecture to design sustainable and energy efficient machine learning algorithms.
-In particular, the thesis investigates energy consumption for data stream mining algorithms.
+In particular, the thesis investigates energy efficiency for data stream mining algorithms.
 While data stream mining algorithms are able to process potentially infinite streams of data without incurring in intensive computations, building energy efficient solutions for streams of data is key to move machine learning to battery constraint devices.
 
-This thesis comprises four parts, in the form of six papers.
-The main contribution of the thesis is the per-node adaptive growth method for Hoeffding trees. This method is able to reduce the energy consumption of Hoeffding trees by growing each branch of the tree independently and under different criteria.
-In particular, the thesis first introduces the concept of measuring energy consumption for software applications, and in particular for machine learning algorithms.
-Second, it evaluates the energy consumption patterns of Hoeffding trees, showing the key energy bottlenecks for that class of algorithms.
-Third, it addresses those bottlenecks by presenting the *nmin adaptation* method for Hoeffding trees and ensembles of Hoeffding trees, outputting up to 40 percent of energy reductions compared to the originals solution.
-The thesis is finalized by presenting the Green Very Fast Decision Tree algorithm. This algorithm is able to output higher accuracy than the latest Hoeffding tree extension, while reducing its energy consumption by more than 20 percent averaged in 12 publicly available datasets.
+This thesis comprises six papers, that address *how to design machine learning algorithms that automatically learn from streaming data in an energy efficient manner*.
+This thesis first shows how to extract the energy consumption patterns of an algorithm both theoretically, and empirically. Theoretically though an energy model that maps the number of computations and memory accesses to the main functionalities of the algorithm. Empirically though analyzing the hardware events correlated to the execution of the algorithm, and by analyzing the behavior of the algorithm in terms of energy consumption through functional analysis and parameter tuning.
+
+Second, this thesis proposes a generic approach to reduce the energy consumption of Hoeffding trees and ensembles of Hoeffding trees, a class of streaming algorithms. This approach focuses on the concept of growing the decision tree adaptively and independently for each branch, in the form of two solutions.
+
+The first solution sets a unique value of the *nmin* parameter (minimum batch size at each node) independent for each node. This saves between 20 and 30 percent of energy by delaying the splits on those nodes that have not observed enough data to make a confident split, with minimal effect on accuracy.
+
+The second solution, the Green Accelerated Hoeffding Tree algorithm, grows the tree dynamically by creating different types of nodes which follow different splitting criteria. Thus, growing the tree faster in only a selected set of nodes and deactivating another set of nodes to save energy. This algorithm consumes 20 percent less energy than the state-of-the-art Hoeffding tree extension, while obtaining higher levels of accuracy.
 
 ---
 ### Thesis description and author contribution
