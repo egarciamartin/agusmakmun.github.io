@@ -37,7 +37,7 @@ The thesis author has been the main driver of all the publications. The author h
 
 ### Tentatively included papers   
 <br/>
-* **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2018)  *Estimation of Energy Consumption in Machine Learning*. Journal of Parallel and Distributed Computing, Special Issue on Advances on Parallel and High Performance Computing for AI. Elsevier *(Under review - Major revision)*
+* **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2018)  *Estimation of Energy Consumption in Machine Learning*. Journal of Parallel and Distributed Computing, Special Issue on Advances on Parallel and High Performance Computing for AI. Elsevier *(Accepted)*
   <details>
   <summary>Abstract</summary>
 
@@ -70,7 +70,7 @@ The thesis author has been the main driver of all the publications. The author h
   </details><br/>
 
 
-* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018)  *Energy-Aware Very Fast Decision Tree*. Journal of Data Science and Analytics, Springer.*(Under review - Minor revision)*
+* **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2018)  *Energy-Aware Very Fast Decision Tree*. Journal of Data Science and Analytics, Springer.*(Accepted)*
   <details>
   <summary>Abstract</summary>
   Recently machine learning researchers are designing algorithms that can run in embedded and mobile devices, which introduces additional constraints compared to traditional algorithm design approaches.
