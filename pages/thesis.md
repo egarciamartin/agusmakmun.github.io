@@ -37,7 +37,8 @@ The thesis author has been the main driver of all the publications. The author h
 
 ### Tentatively included papers   
 <br/>
-* **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2018)  *Estimation of Energy Consumption in Machine Learning*. Journal of Parallel and Distributed Computing, Special Issue on Advances on Parallel and High Performance Computing for AI. Elsevier *(Accepted)*
+* **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2019)  *Estimation of Energy Consumption in Machine Learning*. Journal of Parallel and Distributed Computing, 2019, Elsevier. DOI: <https://doi.org/10.1016/j.jpdc.2019.07.007> - **[[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0743731518308773)**
+
   <details>
   <summary>Abstract</summary>
 
@@ -95,7 +96,7 @@ The thesis author has been the main driver of all the publications. The author h
 
   </details><br/>
 
-* **García-Martín E.**, Bifet A., Lavesson N., (2019) *Green Accelerated Hoeffding Tree*. 2019 IEEE International Conference on Data Mining (ICDM). IEEE, 2019. *(Under review)*
+* **García-Martín E.**, Bifet A., Lavesson N., (2019) *Green Accelerated Hoeffding Tree*. 2019 IEEE Big Data. IEEE, 2019. *(Under review)*
   <details>
   <summary>Abstract</summary>
   Stream mining algorithms are able to produce highly accurate models in real time, without strong computational demands. This is the case of the Hoeffding tree algorithm. Recent extensions to this algorithm focus on increasing predictive accuracy, but at the cost of a higher energy consumption. This paper presents the Green Accelerated Hoeffding Tree (GAHT) algorithm, which is able to achieve same levels of accuracy as the latest Hoeffding tree extension, i.e. Extremely Very Fast Decision Tree (EFDT), while reducing its energy consumption. In particular, the GAHT algorithm is able to reduce the energy consumption of the EFDT by 26 percent, averaged on 12 publicly available datasets, with minimal effect on accuracy.

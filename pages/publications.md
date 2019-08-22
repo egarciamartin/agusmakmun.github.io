@@ -12,7 +12,8 @@ permalink: /publications
 ### Journals
 ----
 
-* **García-Martín E.**, Rodrigues C., Riley G., & Grahn H. (2019). "Estimation of Energy Consumption in Machine Learning". Journal of Parallel and Distributed Computing (JPDC), Special Issue on Advances on Parallel and High Performance Computing for AI. Elsevier. (*To appear*)
+* **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2019)  "Estimation of Energy Consumption in Machine Learning". Journal of Parallel and Distributed Computing, 2019, Elsevier. DOI: <https://doi.org/10.1016/j.jpdc.2019.07.007> - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0743731518308773)
+
 
 * **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2019). "Energy-Aware Very Fast Decision Tree". Journal of Data Science and Analytics (JDSA). Springer. (*To appear*)
 
