@@ -11,21 +11,17 @@ permalink: /thesis
 ### Abstract
 
 Energy efficiency in machine learning explores how to build machine learning algorithms and models with low computational and power requirements.
-Energy efficient and scalable algorithms are necessary to be able to be deployed on embedded systems and other resource constrained devices.
-Although energy consumption is starting to gain interest in the field of machine learning, still the majority of solutions focus on obtaining the highest predictive accuracy, without considering energy consumption.
+Although energy consumption is starting to gain interest in the field of machine learning, still the majority of solutions focus on obtaining the highest predictive accuracy, without a clear focus on sustainability.
 
 This thesis explores green machine learning, which builds on green computing and computer architecture to design sustainable and energy efficient machine learning algorithms.
-In particular, the thesis investigates energy efficiency for data stream mining algorithms.
-While data stream mining algorithms are able to process potentially infinite streams of data without incurring in intensive computations, building energy efficient solutions for streams of data is key to move machine learning to battery constraint devices.
+In particular, we investigate *how to design machine learning algorithms that automatically learn from streaming data in an energy efficient manner*.
 
-This thesis comprises six papers, that address *how to design machine learning algorithms that automatically learn from streaming data in an energy efficient manner*.
-This thesis first shows how to extract the energy consumption patterns of an algorithm both theoretically, and empirically. Theoretically though an energy model that maps the number of computations and memory accesses to the main functionalities of the algorithm. Empirically though analyzing the hardware events correlated to the execution of the algorithm, and by analyzing the behavior of the algorithm in terms of energy consumption through functional analysis and parameter tuning.
+We first illustrate how energy can be measured in the context of machine learning, in the form of a literature review and a procedure to create theoretical energy models. 
+We use this knowledge to analyze the energy footprint of Hoeffding trees, presenting an energy model that maps the number of computations and memory accesses to the main functionalities of the algorithm. We also analyze the hardware events correlated to the execution of the algorithm, their functions and their hyper parameters.  
 
-Second, this thesis proposes a generic approach to reduce the energy consumption of Hoeffding trees and ensembles of Hoeffding trees, a class of streaming algorithms. This approach focuses on the concept of growing the decision tree adaptively and independently for each branch, in the form of two solutions.
+The final contribution of the thesis is showcased by two novel extensions of Hoeffding tree algorithms, the Hoeffding tree with *nmin adaptation* and the Green Accelerated Hoeffding Tree. These solutions are able to reduce their energy consumption by twenty and thirty percent, with minimal effect on accuracy. This is achieved by setting an individual splitting criteria for each branch of the decision tree, spending more energy on the fast growing branches and saving energy on the rest. 
 
-The first solution sets a unique value of the *nmin* parameter (minimum batch size at each node) independent for each node. This saves between 20 and 30 percent of energy by delaying the splits on those nodes that have not observed enough data to make a confident split, with minimal effect on accuracy.
-
-The second solution, the Green Accelerated Hoeffding Tree algorithm, grows the tree dynamically by creating different types of nodes which follow different splitting criteria. Thus, growing the tree faster in only a selected set of nodes and deactivating another set of nodes to save energy. This algorithm consumes 20 percent less energy than the state-of-the-art Hoeffding tree extension, while obtaining higher levels of accuracy.
+This thesis shows the importance of evaluating energy consumption when designing machine learning algorithms, proving that we can design more energy efficient algorithms and still achieve competitive accuracy results.  
 
 ---
 ### Thesis description and author contribution
@@ -33,9 +29,13 @@ This dissertation is a compilation thesis that consists of a number of published
 The thesis author has been the main driver of all the publications. The author has planned the studies, designed the experiments, conducted the experiments, conducted the analysis and written the manuscripts.
 
 ---
+### PDF 
+A PDF of the complete thesis can be found in the following link: [PDF]({{ site.baseurl }}/static/pdf/thesis.pdf)
+
+---
 
 
-### Tentatively included papers   
+### Included papers   
 <br/>
 * **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2019)  *Estimation of Energy Consumption in Machine Learning*. Journal of Parallel and Distributed Computing, 2019, Elsevier. DOI: <https://doi.org/10.1016/j.jpdc.2019.07.007> - **[[ScienceDirect]](https://www.sciencedirect.com/science/article/pii/S0743731518308773)**
 
@@ -83,7 +83,7 @@ The thesis author has been the main driver of all the publications. The author h
   </details><br/>
 
 
-* **García-Martín E.**, Bifet A., Lavesson N., (2019) *Energy Efficient Ensembles of Hoeffding Trees*. Intelligent Data Analysis *(Under review)*.
+* **García-Martín E.**, Bifet A., Lavesson N., (2019) *Energy Efficient Ensembles of Hoeffding Trees*. Intelligent Data Analysis *(Accepted)*.
   <details>
   <summary>Abstract</summary>
 
@@ -96,8 +96,8 @@ The thesis author has been the main driver of all the publications. The author h
 
   </details><br/>
 
-* **García-Martín E.**, Bifet A., Lavesson N., (2019) *Green Accelerated Hoeffding Tree*. 2019 IEEE Big Data. IEEE, 2019. *(Under review)*
+* **García-Martín E.**, Bifet A., Lavesson N., (2019) *Green Accelerated Hoeffding Tree*. The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining *(Under review)*
   <details>
   <summary>Abstract</summary>
-  Stream mining algorithms are able to produce highly accurate models in real time, without strong computational demands. This is the case of the Hoeffding tree algorithm. Recent extensions to this algorithm focus on increasing predictive accuracy, but at the cost of a higher energy consumption. This paper presents the Green Accelerated Hoeffding Tree (GAHT) algorithm, which is able to achieve same levels of accuracy as the latest Hoeffding tree extension, i.e. Extremely Very Fast Decision Tree (EFDT), while reducing its energy consumption. In particular, the GAHT algorithm is able to reduce the energy consumption of the EFDT by 26 percent, averaged on 12 publicly available datasets, with minimal effect on accuracy.
+  Stream mining algorithms are able to produce highly accurate models in real time, without strong computational demands. This is the case of the Hoeffding tree algorithm. Recent extensions to this algorithm focus on increasing predictive accuracy, but at the cost of a higher energy consumption. This paper presents the Green Accelerated Hoeffding Tree (GAHT) algorithm, which is able to achieve same levels of accuracy as the latest Hoeffding tree extension, i.e. Extremely Very Fast Decision Tree (EFDT), while reducing its energy consumption. In particular, the GAHT algorithm is able to reduce the energy consumption of the EFDT by 26 percent, averaged on 11 publicly available datasets, with minimal effect on accuracy.
   </details>

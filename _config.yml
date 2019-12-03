@@ -2,12 +2,12 @@ title: Eva García-Martín
 description: Personal Website
 author: Eva García-Martín
 github: https://github.com/egarciamartin
-about: PhD candidate in Machine Learning @ Blekinge Institute of Technology.
+about: Data Scientist at Ekkono Solutions
 location:
   name:
   link_name: Göteborg, Sweden
   link: https://goo.gl/maps/ca9DpwPgx342
-contact: eva.garcia.martin[at]bth.se
+contact: eva[at]ekkono.ai
 avatar_url: /static/img/Eva_2.png
 
 enableTags: true

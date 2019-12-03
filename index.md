@@ -19,7 +19,10 @@ Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing,
 
 ## News
 ---
-* July'19: Our paper "Estimation of Energy Consumption in Machine Learning" has been accepted at the Journal of Parallel and Distributed Computing (JPDC). Soon arXiv version online!
+* January'20: Official date for my PhD defense on January 31st, 2020 with [Jesse Read](https://jmread.github.io) as opponent. 
+* October'19: Our paper *Energy Modeling of Hoeffding Tree Ensembles* has been accepted at the Intelligent Data Analysis journal. (*to appear*)
+* September'19: Our paper *Energy-Aware Very Fast Decision Tree* has been accepted at the International Journal of Data Science and Analytics. (*to appear*)
+* July'19: Our paper *Estimation of Energy Consumption in Machine Learning* has been accepted at the Journal of Parallel and Distributed Computing (JPDC). [Link](https://www.sciencedirect.com/science/article/pii/S0743731518308773)
 * June'19: Gave a talk on *Sustainable Machine Learning* at the Women in Tech event "Women Influencers in Disruptive Technologies", in Gothenburg, Sweden.
 * April'19: :tada:From August 15 I will be starting a new position as a Data Scientist at [Ekkono Solutions](https://ekkono.ai).  
 * October-November'18: Visited Télécom ParisTech for a month to work at the [Data, Intelligence and Graphs (DIG)](https://dig.telecom-paristech.fr/blog/index.php/research/) group with [Albert Bifet](http://albertbifet.com).

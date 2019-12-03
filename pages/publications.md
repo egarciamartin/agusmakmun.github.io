@@ -12,10 +12,12 @@ permalink: /publications
 ### Journals
 ----
 
-* **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2019)  "Estimation of Energy Consumption in Machine Learning". Journal of Parallel and Distributed Computing, 2019, Elsevier. DOI: <https://doi.org/10.1016/j.jpdc.2019.07.007> - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0743731518308773)
+* **García-Martín E.**, Bifet A., & Lavesson N.  (2019)  "Energy Modeling of Hoeffding Tree Ensembles". Intelligent Data Analysis, 2019. (*To appear*)
 
 
 * **García-Martín E.**, Lavesson N., Grahn H., Casalicchio E., & Boeva V. (2019). "Energy-Aware Very Fast Decision Tree". Journal of Data Science and Analytics (JDSA). Springer. (*To appear*)
+
+* **García-Martín E.**, Rodrigues C., Riley G., & Grahn H.  (2019)  "Estimation of Energy Consumption in Machine Learning". Journal of Parallel and Distributed Computing, 2019, Elsevier. DOI: <https://doi.org/10.1016/j.jpdc.2019.07.007> - [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0743731518308773)
 
 * **García-Martín E.**, Lavesson N., & Doroud M. (2016). "Hashtags and followers:An experimental study of the online social network Twitter". Social Network Analysis and Mining (SNAM), 6(1) (pp. 1-15), [Springer original PDF](https://rdcu.be/7BCE)
 
@@ -62,4 +64,7 @@ permalink: /publications
 ### Thesis work
 ----
 
+* **García-Martín, Eva**. Energy Efficiency in Machine Learning: Approaches to Sustainable Data Stream Mining. Diss. Blekinge Tekniska Högskola, 2019. [PDF]({{ site.baseurl }}/static/pdf/thesis.pdf)
+
 * **García-Martín, Eva**. Extraction and Energy Efficient Processing of Streaming Data. Diss. Blekinge Tekniska Högskola, 2017. [PDF](http://bth.diva-portal.org/smash/get/diva2:1159312/FULLTEXT02.pdf)
+
