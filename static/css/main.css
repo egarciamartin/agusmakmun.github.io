@@ -26,6 +26,10 @@ h1 {
   margin-bottom: 10px;
   font-size: 30px;
 }
+h1.author-name {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
 h2 {
   font-size: 25px;
 }

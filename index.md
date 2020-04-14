@@ -6,20 +6,23 @@ permalink: /
 <br><br>
 
 ---
+Data Scientist at [Ekkono Solutions](https://ekkono.ai) working on developing and designing sustainable, energy efficient, and low memory footprint machine learning algorithms. 
 
-I am a PhD candidate in Machine Learning at [Blekinge Institute of Technology](https://www.bth.se), in Sweden. I am working under the project *Scalable resource- efficient systems for big data analytics* funded by the [Knowledge Foundation](http://www.kks.se), advised by [Niklas Lavesson](https://www.bth.se/eng/staff/niklas-lavesson-nla/) and [Håkan Grahn](https://www.bth.se/eng/staff/hakan-grahn-hgr/).
+I successfully defended my PhD in January 2020 at [Blekinge Institute of Technology](https://www.bth.se) (Sweden), advised by [Niklas Lavesson](https://www.bth.se/eng/staff/niklas-lavesson-nla/) and [Håkan Grahn](https://www.bth.se/eng/staff/hakan-grahn-hgr/).
+The  PhD was funded by the [Knowledge Foundation](http://www.kks.se) under the project *Scalable resource- efficient systems for big data analytics*. advised by [Niklas Lavesson](https://www.bth.se/eng/staff/niklas-lavesson-nla/) and [Håkan Grahn](https://www.bth.se/eng/staff/hakan-grahn-hgr/).
 
 
-The main focus of my thesis is on making **machine learning** algorithms more **energy efficient**.
+
+<!-- The main focus of my thesis is on making **machine learning** algorithms more **energy efficient**.
 In particular, I have studied the energy consumption patterns of **streaming algorithms**, and then proposed new algorithm extensions that reduce their energy consumption.
 Some of my research interests are the following:
 Energy Efficiency in Machine Learning, **Green AI**, High Performance Computing, Big Data and Streaming Data, Green Computing.
-
+ -->
 <br>
 
 ## News
 ---
-* January'20: Official date for my PhD defense on January 31st, 2020 with [Jesse Read](https://jmread.github.io) as opponent. 
+* January'20: :tada: I successfully defended my PhD with [Jesse Read](https://jmread.github.io) as opponent.  
 * October'19: Our paper *Energy Modeling of Hoeffding Tree Ensembles* has been accepted at the Intelligent Data Analysis journal. (*to appear*)
 * September'19: Our paper *Energy-Aware Very Fast Decision Tree* has been accepted at the International Journal of Data Science and Analytics. (*to appear*)
 * July'19: Our paper *Estimation of Energy Consumption in Machine Learning* has been accepted at the Journal of Parallel and Distributed Computing (JPDC). [Link](https://www.sciencedirect.com/science/article/pii/S0743731518308773)
@@ -55,7 +58,7 @@ I am a reviewer for the following conferences/journals: [JMLR](http://jmlr.csail
 
 I have given talks and/or presentations at the following events:
 
-* *Sustainable Machine Learning* • Women Influencers in Disruptive Technologies, Gothenburg, Sweden. 
+* *Sustainable Machine Learning* • Women Influencers in Disruptive Technologies, June 2019, Gothenburg, Sweden. 
 * *Hoeffding Trees with nmin adaptation* • The 5th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2018), October 2018, Turin, Italy.
 
 * *How to Measure Energy Consumption in Machine Learning algorithms* • Green Data Mining workshop held at ECML-PKDD 2018, September 2018, Dublin, Ireland.
