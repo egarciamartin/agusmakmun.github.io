@@ -13,6 +13,7 @@ avatar_url: /static/img/Eva_2.png
 enableTags: true
 tagarray: []
 
+google_analytics: UA-163625854-1
 collections:
   project:
     output: true
