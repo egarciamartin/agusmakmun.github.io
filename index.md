@@ -9,8 +9,7 @@ permalink: /
 Data Scientist at [Ekkono Solutions](https://ekkono.ai) working on developing and designing sustainable, energy efficient, and low memory footprint machine learning algorithms. 
 
 I successfully defended my PhD in January 2020 at [Blekinge Institute of Technology](https://www.bth.se) (Sweden), advised by [Niklas Lavesson](https://www.bth.se/eng/staff/niklas-lavesson-nla/) and [Håkan Grahn](https://www.bth.se/eng/staff/hakan-grahn-hgr/).
-The  PhD was funded by the [Knowledge Foundation](http://www.kks.se) under the project *Scalable resource- efficient systems for big data analytics*. advised by [Niklas Lavesson](https://www.bth.se/eng/staff/niklas-lavesson-nla/) and [Håkan Grahn](https://www.bth.se/eng/staff/hakan-grahn-hgr/).
-
+The  PhD was funded by the [Knowledge Foundation](http://www.kks.se) under the project *Scalable resource- efficient systems for big data analytics*. 
 
 
 <!-- The main focus of my thesis is on making **machine learning** algorithms more **energy efficient**.
